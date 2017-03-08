@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("user1 update1");
+            Console.WriteLine("user1 update2");
             Console.ReadLine();
         }
     }
