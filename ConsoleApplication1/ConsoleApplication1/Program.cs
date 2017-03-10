@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Good buy world4!");
+            for (int i = 0; i < 150; i++)
+            {
+                Console.WriteLine(i);
+            }
             Console.ReadLine();
         }
     }
