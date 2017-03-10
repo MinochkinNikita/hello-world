@@ -10,13 +10,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-		Console.WriteLine();
-
-		Console.WriteLine();
-
-		Console.WriteLine();
-
-		Console.WriteLine();
+            int i = 0;
+            while (i<20)
+            {
+                i++;
+            }
         }
     }
 }
